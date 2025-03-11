@@ -1,3 +1,3 @@
 # Cintas Magneticas
 
-![Cintas](img/C1.jpeg)
+![Cintas](img/C1.jpg)
