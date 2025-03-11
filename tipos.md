@@ -20,3 +20,5 @@ Ampex introdujo la primera grabadora de video en cinta funcional y producida en 
 
 
 El primer uso de la cinta magnética para almacenar datos ocurrió en 1951, en un proto-ordenador Ilamado Mauchly-Eckert UNIVACI
+
+[Conclusion](conclusion.md)
