@@ -1,6 +1,7 @@
 # Cintas Magneticas
 
-![Cintas](img/C1.JPG)
+<img src="img/C1.JPG" width="1000">
+
 
   1.  [¿Qué son?](que.md)
   2. [Características](caracteristicas.md)
