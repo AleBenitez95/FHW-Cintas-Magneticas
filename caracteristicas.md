@@ -6,6 +6,6 @@
 
 ### Uso comercial
 
- **Ciencia** : Instituciones como el CERN usan cintas magnéticas para almacenar grandes volúmenes de datos experimentales.
- **Backup**: Empresas y centros de datos usan cintas LTO para respaldo y archivo de datos a largo plazo, protegiéndolos de ciberataques y fallos de hardware.
- **Seguridad**: Gobiernos y bancos almacenan datos confidenciales en cintas magnéticas porque son seguras, económicas y difíciles de hackear.
+ 1. **Ciencia** : Instituciones como el CERN usan cintas magnéticas para almacenar grandes volúmenes de datos experimentales.
+ 2. **Backup**: Empresas y centros de datos usan cintas LTO para respaldo y archivo de datos a largo plazo, protegiéndolos de ciberataques y fallos de hardware.
+ 3. **Seguridad**: Gobiernos y bancos almacenan datos confidenciales en cintas magnéticas porque son seguras, económicas y difíciles de hackear.
