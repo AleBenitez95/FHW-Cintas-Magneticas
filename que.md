@@ -3,4 +3,4 @@
 ![cinta](img/c2.jpeg)
 
 
-[Tipos](tipos.md)
+[Características](caracteristicas.md)
