@@ -1,1 +1,1 @@
-# FHW-Cintas-Magneticas
+# Cintas Magneticas
