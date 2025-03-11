@@ -1,6 +1,6 @@
 # Cintas Magneticas
 
-<img src="img/C1.JPG" width="1000">
+<img src="img/C1.JPG" width="700">
 
 
   1.  [¿Qué son?](que.md)
