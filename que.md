@@ -1,3 +1,3 @@
 # ¿Qué son?
 
-![cinta](c2.jpeg)
+![cinta](img/c2.jpeg)
